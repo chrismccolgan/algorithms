@@ -18,7 +18,7 @@ const addUpToSecond = (n) => {
   return (n * (n + 1)) / 2;
 };
 
-console.log(addUpTo(10));
+console.log(addUpToFirst(10));
 console.log(addUpToSecond(10));
 
 // Number of operations is bounded by a multiple of n, O(n)
