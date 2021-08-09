@@ -1,6 +1,9 @@
-// Frequency Counter - sameFrequency
-// Write a function called sameFrequency. Given two positive integers,
-// find out if the two numbers have the same frequency of digits.
+/* 
+  Frequency Counter - sameFrequency
+  Write a function called sameFrequency. Given two positive integers,
+  find out if the two numbers have the same frequency of digits.
+*/
+
 function sameFrequency(a, b) {
   let str1 = a.toString();
   let str2 = b.toString();

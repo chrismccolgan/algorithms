@@ -1,4 +1,4 @@
-function shuffle(array) {
+function fisherYatesShuffle(array) {
   var m = array.length,
     t,
     i;
